@@ -217,23 +217,16 @@ Das Gehäuse braucht ein Druckbett von mindestens 160 mm Tiefe. Das Skript schre
 
 ## Offene Aufgaben
 
-### MUST
+Offene Aufgaben stehen als [Issues](https://github.com/Auktoriator/RaspberryPi_Projekte/issues) und auf dem Board der Pi-Projekte:
 
-- **Probedruck** (zurückgestellt): Ein Teststück mit Pi-Lochbild, Port-Ausschnitt, Schiene und Laufwerks-Langloch drucken, um Passung und Toleranzen zu prüfen.
-- **Lage des Power-Knopfs am echten Pi prüfen:** Position und Höhe stammen aus der Maßzeichnung bzw. sind geschätzt. Der Stößel muss genau den Knopf treffen.
-
-### SHOULD
-
-- **Temperatur prüfen** (zurückgestellt), vor allem unter Last mit Minecraft-Server.
-- **Status-LEDs** des Pi sichtbar machen (zurückgestellt).
-
-### Für eine spätere Hauptversion
-
-Erst nach dem ersten Druck und längerem Ausprobieren:
-
-- Herausziehbare Laufwerksschlitten mit Griff an der Front, wie bei einer Synology.
-- Gewindeeinsätze aus Messing statt selbstschneidender Schrauben.
-- Zugang zur microSD.
+| Wichtigkeit | Issue |
+|---|---|
+| MUST | [#1 Probedruck: Passung und Toleranzen prüfen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/1) |
+| MUST | [#2 Lage des Power-Knopfs am echten Pi prüfen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/2) |
+| SHOULD | [#3 Temperatur unter Last prüfen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/3) |
+| SHOULD | [#4 Status-LEDs des Pi von außen sichtbar machen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/4) |
+| Spätere Hauptversion | [#5 Laufwerksschlitten](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/5), [#6 Gewindeeinsätze aus Messing](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/6), [#7 Zugang zur microSD](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/7) |
+| Offen | [#8 AI HAT+ 2 einbauen?](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/8) |
 
 ### WONT
 
