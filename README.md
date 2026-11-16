@@ -217,16 +217,16 @@ Das Gehäuse braucht ein Druckbett von mindestens 160 mm Tiefe. Das Skript schre
 
 ## Offene Aufgaben
 
-Offene Aufgaben stehen als [Issues](https://github.com/Auktoriator/RaspberryPi_Projekte/issues) und auf dem Board der Pi-Projekte:
+Offene Aufgaben stehen als [Issues](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues) und auf dem Board der Pi-Projekte:
 
 | Wichtigkeit | Issue |
 |---|---|
-| MUST | [#1 Probedruck: Passung und Toleranzen prüfen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/1) |
-| MUST | [#2 Lage des Power-Knopfs am echten Pi prüfen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/2) |
-| SHOULD | [#3 Temperatur unter Last prüfen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/3) |
-| SHOULD | [#4 Status-LEDs des Pi von außen sichtbar machen](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/4) |
-| Spätere Hauptversion | [#5 Laufwerksschlitten](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/5), [#6 Gewindeeinsätze aus Messing](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/6), [#7 Zugang zur microSD](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/7) |
-| Offen | [#8 AI HAT+ 2 einbauen?](https://github.com/Auktoriator/RaspberryPi_Projekte/issues/8) |
+| MUST | [#1 Probedruck: Passung und Toleranzen prüfen](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/1) |
+| MUST | [#2 Lage des Power-Knopfs am echten Pi prüfen](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/2) |
+| SHOULD | [#3 Temperatur unter Last prüfen](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/3) |
+| SHOULD | [#4 Status-LEDs des Pi von außen sichtbar machen](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/4) |
+| Spätere Hauptversion | [#5 Laufwerksschlitten](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/5), [#6 Gewindeeinsätze aus Messing](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/6), [#7 Zugang zur microSD](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/7) |
+| Offen | [#8 AI HAT+ 2 einbauen?](https://github.com/Auktoriator/PiCraft-Gehaeuse/issues/8) |
 
 ### WONT
 
